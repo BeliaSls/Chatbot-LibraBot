@@ -1,0 +1,202 @@
+[
+  {
+    "id": "B001",
+    "title": "Laut Bercerita",
+    "author": "Leila S. Chudori",
+    "category": ["Fiksi"],
+    "genre": ["Sejarah", "Drama"],
+    "published_year": 2017,
+    "synopsis": "Kisah seorang aktivis mahasiswa yang hilang pada masa Orde Baru, dituturkan dari dua sudut pandang: dirinya sendiri dan adiknya yang menunggu kepulangannya. Menggali tema kehilangan, keluarga, dan perjuangan.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B002",
+    "title": "Bumi Manusia",
+    "author": "Pramoedya Ananta Toer",
+    "category": ["Fiksi"],
+    "genre": ["Sejarah", "Roman"],
+    "published_year": 1980,
+    "synopsis": "Perjalanan hidup Minke, pemuda pribumi terpelajar di masa kolonial Belanda, yang bergulat dengan cinta, identitas, dan ketidakadilan sistem kolonial.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B003",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": ["Non-Fiksi"],
+    "genre": ["Pengembangan Diri"],
+    "published_year": 2018,
+    "synopsis": "Panduan praktis membangun kebiasaan baik dan menghilangkan kebiasaan buruk melalui perubahan kecil yang konsisten, didukung riset psikologi perilaku.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B004",
+    "title": "Filosofi Teras",
+    "author": "Henry Manampiring",
+    "category": ["Non-Fiksi"],
+    "genre": ["Pengembangan Diri", "Filsafat"],
+    "published_year": 2018,
+    "synopsis": "Pengantar filsafat Stoa yang diramu dengan konteks kehidupan modern Indonesia, membahas cara mengelola emosi dan menerima hal di luar kendali.",
+    "availability_status": "Dipinjam"
+  },
+  {
+    "id": "B005",
+    "title": "Sapiens: Riwayat Singkat Umat Manusia",
+    "author": "Yuval Noah Harari",
+    "category": ["Non-Fiksi"],
+    "genre": ["Sains", "Sejarah"],
+    "published_year": 2011,
+    "synopsis": "Menelusuri perjalanan evolusi manusia dari pemburu-pengumpul hingga revolusi kognitif, pertanian, dan teknologi yang membentuk peradaban.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B006",
+    "title": "Cantik Itu Luka",
+    "author": "Eka Kurniawan",
+    "category": ["Fiksi"],
+    "genre": ["Magis Realisme", "Drama"],
+    "published_year": 2002,
+    "synopsis": "Kisah seorang perempuan yang bangkit dari kubur setelah 21 tahun, mengungkap sejarah kelam sebuah keluarga dan bangsa dengan sentuhan magis realisme.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B007",
+    "title": "Pulang",
+    "author": "Leila S. Chudori",
+    "category": ["Fiksi"],
+    "genre": ["Sejarah", "Drama"],
+    "published_year": 2012,
+    "synopsis": "Perjalanan eksil politik Indonesia di Paris pasca peristiwa 1965, dan pergulatan identitas anaknya yang tumbuh besar sebagai diaspora.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B008",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": ["Non-Fiksi"],
+    "genre": ["Psikologi", "Sains"],
+    "published_year": 2011,
+    "synopsis": "Menjelaskan dua sistem berpikir manusia, satu cepat dan intuitif, satu lambat dan analitis, serta bagaimana keduanya memengaruhi keputusan sehari-hari.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B009",
+    "title": "Gadis Kretek",
+    "author": "Ratih Kumala",
+    "category": ["Fiksi"],
+    "genre": ["Sejarah", "Keluarga"],
+    "published_year": 2012,
+    "synopsis": "Rahasia keluarga pengusaha rokok kretek yang terungkap lewat perjalanan tiga bersaudara mencari sosok perempuan bernama Jeng Yah dari masa lalu ayah mereka.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B010",
+    "title": "Sebuah Seni untuk Bersikap Bodo Amat",
+    "author": "Mark Manson",
+    "category": ["Non-Fiksi"],
+    "genre": ["Pengembangan Diri"],
+    "published_year": 2016,
+    "synopsis": "Pendekatan tidak biasa untuk hidup lebih baik dengan berhenti memaksakan diri peduli pada segala hal, dan fokus pada apa yang benar-benar penting.",
+    "availability_status": "Dipinjam"
+  },
+  {
+    "id": "B011",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": ["Non-Fiksi"],
+    "genre": ["Biografi", "Keluarga"],
+    "published_year": 2018,
+    "synopsis": "Memoar seorang perempuan yang tumbuh tanpa pendidikan formal di keluarga fundamentalis terpencil, hingga akhirnya menempuh pendidikan tinggi dan menemukan jati dirinya.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B012",
+    "title": "Manjali dan Cakrabirawa",
+    "author": "Ayu Utami",
+    "category": ["Fiksi"],
+    "genre": ["Misteri", "Sejarah"],
+    "published_year": 2010,
+    "synopsis": "Investigasi seorang arkeolog terhadap legenda lokal yang ternyata bersinggungan dengan kekerasan politik masa lalu Indonesia.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B013",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": ["Non-Fiksi"],
+    "genre": ["Sains"],
+    "published_year": 1988,
+    "synopsis": "Penjelasan populer tentang kosmologi, lubang hitam, dan asal-usul alam semesta yang disampaikan tanpa rumus matematika rumit.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B014",
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "category": ["Fiksi"],
+    "genre": ["Roman", "Drama"],
+    "published_year": 2018,
+    "synopsis": "Hubungan rumit dua remaja Irlandia yang terus bersinggungan dari masa sekolah hingga kuliah, membahas kelas sosial, identitas, dan kerapuhan emosional dengan gaya penceritaan minimalis.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B015",
+    "title": "Conversations with Friends",
+    "author": "Sally Rooney",
+    "category": ["Fiksi"],
+    "genre": ["Roman", "Drama"],
+    "published_year": 2017,
+    "synopsis": "Dua mahasiswi terlibat hubungan rumit dengan pasangan suami istri yang lebih tua, mengeksplorasi cinta, persahabatan, dan identitas dengan dialog yang tajam dan reflektif.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B016",
+    "title": "Keluarga Cemara",
+    "author": "Arswendo Atmowiloto",
+    "category": ["Fiksi"],
+    "genre": ["Keluarga", "Drama"],
+    "published_year": 1996,
+    "synopsis": "Kehidupan sederhana sebuah keluarga yang menghadapi kesulitan ekonomi dengan kehangatan dan nilai-nilai kekeluargaan yang kuat.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B017",
+    "title": "Ikigai: Rahasia Panjang Umur Orang Jepang",
+    "author": "Hector Garcia & Francesc Miralles",
+    "category": ["Non-Fiksi"],
+    "genre": ["Pengembangan Diri", "Kesehatan"],
+    "published_year": 2016,
+    "synopsis": "Eksplorasi filosofi hidup masyarakat Okinawa yang menemukan tujuan hidup (ikigai) sebagai kunci umur panjang dan kebahagiaan.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B018",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": ["Fiksi"],
+    "genre": ["Misteri", "Thriller"],
+    "published_year": 2019,
+    "synopsis": "Seorang pelukis terkenal menembak suaminya lalu memilih bungkam selamanya, dan seorang psikoterapis berusaha mengungkap alasan di balik keheningannya.",
+    "availability_status": "Dipinjam"
+  },
+  {
+    "id": "B019",
+    "title": "Sejarah Dunia yang Disembunyikan",
+    "author": "Jonathan Black",
+    "category": ["Non-Fiksi"],
+    "genre": ["Sejarah"],
+    "published_year": 2007,
+    "synopsis": "Menelusuri narasi alternatif sejarah peradaban manusia dari sudut pandang tradisi esoterik dan spiritual yang jarang dibahas buku sejarah arus utama.",
+    "availability_status": "Tersedia"
+  },
+  {
+    "id": "B020",
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "category": ["Fiksi"],
+    "genre": ["Drama", "Keluarga"],
+    "published_year": 2005,
+    "synopsis": "Perjuangan sepuluh anak di Belitung mengejar pendidikan di tengah keterbatasan, dengan semangat persahabatan dan mimpi besar melawan kemiskinan.",
+    "availability_status": "Tersedia"
+  }
+]
